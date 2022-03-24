@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I think I'm a little bit too shy**
 
 
-<h3 align="left">Languages and tools I can use:</h3>
+<h3 align="center">Languages and tools I can use:</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,linux,bash,mysql,redis,php,cloudflare,gcp,git,grafana,figma,vscode,idea"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonlooksdumb&count_private=true&show_icons=true&theme=midnight-purple" alt="brandonlooksdumb's GitHub stats" /></p>
