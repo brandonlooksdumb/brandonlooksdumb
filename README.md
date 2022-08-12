@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Brandon.</h1>
-<h3 align="center">A passionate and curious developer from France</h3>
+<h3 align="center">A passionate and curious developer from France.</h3>
 
 - 🔭 I’m currently working on [FuturyGames](https://github.com/futurygames)
 
