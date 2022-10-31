@@ -20,5 +20,5 @@
 
 <h3 align="center"><b>»</b>»<b>»</b> What I'm currently listening <b>«</b>«<b>«</b></h3>
 <p align="center" width="100%">
-  <img width="70%" src="https://spotify-github-profile.vercel.app/api/view?uid=deustch.private&cover_image=true&theme=novatorem&show_offline=true&bar_color=594eb1&bar_color_cover=false"/>
+  <img width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=deustch.private&cover_image=true&theme=default&show_offline=false&bar_color=825fc4&bar_color_cover=false"/>
 </p>
