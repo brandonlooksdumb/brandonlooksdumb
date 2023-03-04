@@ -1,24 +1,33 @@
-<h1 align="center">Hello there 👋, I'm Brandon.</h1>
-<h3 align="center">A passionate and curious developer from France.</h3>
+[![Hi, I'm Brandon](./assets/cover.png)](#)
 
-- 🔭 I’m currently working on [FuturyGames](https://github.com/futurygames)
+<span align="center">
+  
+  <a href="mailto:hello@brandoncodes.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TADASUKE#0554)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/deustch.private)
+  
+</span>
 
-- 🌱 I plan to learn **React and Python**
+<h2>GITHUB STATS</h2>
 
-- 📫 You can contact me on **Discord @ TADASUKE#0554**
+<span align="center">
+  
+  [![Visits Badge](https://badges.strrl.dev/visits/brandonlooksdumb/brandonlooksdumb?style=for-the-badge&color=6E40F3)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/brandonlooksdumb?style=for-the-badge&color=6E40F3)](https://github.com/brandonlooksdumb?tab=repositories)
+  [![Commits Badge](https://badges.strrl.dev/commits/weekly/brandonlooksdumb?style=for-the-badge&color=6E40F3)](https://github.com/brandonlooksdumb?tab=repositories)
 
-- ⚡ Fun fact **I think I'm a little bit too shy**
+</span>
 
+<span align="center">
 
-<h3 align="center"><b>»</b>»<b>»</b> Languages and tools I can use <b>«</b>«<b>«</b></h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=java,c,linux,bash,mysql,redis,php,cloudflare,gcp,git,grafana,figma,vscode,idea"/></p>
+  [![brandonlooksdumb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandonlooksdumb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=6E40F3&bg_color=2F3640)](#)
 
-<h3 align="center"><b>»</b>»<b>»</b> My GitHub statistics <b>«</b>«<b>«</b></h3>
-<p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonlooksdumb&count_private=true&show_icons=true&theme=midnight-purple" alt="brandonlooksdumb's GitHub stats" />
-</p>
+</span>
 
-<h3 align="center"><b>»</b>»<b>»</b> What I'm currently listening <b>«</b>«<b>«</b></h3>
-<p align="center" width="100%">
-  <img width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=deustch.private&cover_image=true&theme=default&show_offline=false&bar_color=825fc4&bar_color_cover=false"/>
-</p>
+<h2>LISTENING TO</h2>
+
+<span align="center">
+  
+  [![brandonlooksdumb's Spotify Music](https://spotify-github-profile.vercel.app/api/view?uid=deustch.private&cover_image=true&theme=default&show_offline=false&bar_color=825fc4&bar_color_cover=false)](#)
+  
+</span>
