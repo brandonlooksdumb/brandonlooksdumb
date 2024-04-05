@@ -26,12 +26,5 @@
 
 </div>
 
-<div align="center">
-  <h2>LISTENING TO</h2>
-</div>
-
-<div align="center">
-  
-   [![brandonlooksdumb's Spotify Music]( https://data-card-for-spotify.herokuapp.com/api/card?user_id=deustch.private&custom_title=%E2%9C%A8%20Brandon%27s%20vibing%20%E2%9C%A8&limit=5)](#)
-  
-</div>
+> [!NOTE]
+> You are currently seeing my inactive GitHub profile. <br/> I'm progressively switching to my second one [okbrandon](https://github.com/okbrandon) where you can actually see all the projects I'm working on.
